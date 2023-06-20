@@ -1,14 +1,26 @@
-### Hi there 👋
+### Hi I am JeffDing 👋
 
-<!--
-**JeffDing/JeffDIng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Datawhale Member, MindSpore Senior Developer, Reasearch AI For Science,
+
+- 🌱 I’m currently learning AI For Science,Big Model, Mindspore, Ascend
+- 💬 Ask me about MindSpore,Ascend
+- My CSDN:[https://blog.csdn.net/yichao_ding](https://blog.csdn.net/yichao_ding)
+- My email:[JeffDing890430@163.com](JeffDing890430@163.com)
+
+![](https://github-readme-stats.vercel.app/api?username=mayandev)
+
+
+<!--**Mayandev/Mayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning AI For Science
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 💬 Ask me about MindSpore,Ascend
-- 📫 How to reach me: CSDN:[https://blog.csdn.net/yichao_ding](https://blog.csdn.net/yichao_ding)
-
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
+
