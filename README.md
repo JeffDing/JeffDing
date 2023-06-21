@@ -1,9 +1,8 @@
 ### Hi I am JeffDing 👋
 
-Datawhale Member, MindSpore Senior Developer, Reasearch AI For Science,
+Datawhale Member, MindSpore Senior Developer, MindSpore Experience Officer, OpenI Experience Officer
 
-- 🌱 I’m currently learning AI For Science,Big Model, Mindspore, Ascend
-- 💬 Ask me about MindSpore,Ascend
+- I’m currently Research and learning AI For Science,Big Model, MindSpore, Ascend
 - My CSDN:[https://blog.csdn.net/yichao_ding](https://blog.csdn.net/yichao_ding)
 - My email:[JeffDing890430@163.com](JeffDing890430@163.com)
 
