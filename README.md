@@ -3,8 +3,8 @@
 Datawhale Member, MindSpore Senior Developer, MindSpore Experience Officer, OpenI Experience Officer
 
 - I’m currently Research and learning AI For Science,Big Model, MindSpore, Ascend
-- My CSDN:[https://blog.csdn.net/yichao_ding](https://blog.csdn.net/yichao_ding)
-- My email:[JeffDing890430@163.com](JeffDing890430@163.com)
+- My CSDN：[https://blog.csdn.net/yichao_ding](https://blog.csdn.net/yichao_ding)
+- My E-Mail：[JeffDing890430@163.com](JeffDing890430@163.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
 
