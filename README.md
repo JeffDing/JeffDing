@@ -2,7 +2,8 @@
 
 Datawhale Member, MindSpore Senior Developer, MindSpore Experience Officer, OpenI Experience Officer
 
-- I’m currently research and learning AI For Science,Big Model, MindSpore, Ascend
+- I’m currently research and learning AI For Science,Big Model, MindSpore, Huawei Ascend(CANN), Huawei Atalas 200I DK2
+- I'm recently reading book：《Artificial Intelligence: A Modern Approach, 4th》, 《Dive into Deep Learning》
 - My CSDN：[https://blog.csdn.net/yichao_ding](https://blog.csdn.net/yichao_ding)
 - My E-Mail：[JeffDing890430@163.com](JeffDing890430@163.com)
 
