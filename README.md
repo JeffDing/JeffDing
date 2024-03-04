@@ -4,7 +4,7 @@ Datawhale Member, MindSpore Senior Developer, MindSpore Experience Officer, Open
 
 - 🏙️ Shanghai,China
 - 🏫 SJTU
-- 🏆 I’m currently research and learning AI For Science,Big Model, MindSpore, Huawei Ascend(CANN), Huawei Atalas 200I DK2
+- 🏆 I’m currently research and learning AI For Science,Big Model, MindSpore, Huawei Ascend(CANN), Huawei Atalas 200I DK2,InternLM
 - 📖 I'm recently reading book：《Artificial Intelligence: A Modern Approach, 4th》, 《Dive into Deep Learning》
 - 📫 My E-Mail：[JeffDing890430@163.com](JeffDing890430@163.com)
 
