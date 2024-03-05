@@ -1,4 +1,4 @@
-### Hi I am JeffDing 🇨🇳
+### Hi I am JeffDing
 
 Datawhale Member, MindSpore Senior Developer, MindSpore Experience Officer, OpenI Experience Officer
 
