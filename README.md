@@ -5,7 +5,8 @@ Datawhale Member, MindSpore Senior Developer, MindSpore Experience Officer, Open
 - 🏙️ Shanghai,China
 - 🏫 SJTU
 - 🏆 I’m currently research and learning MindSpore, Ascend，Openmind, InternLM
-- 📖 I'm recently reading book：《Artificial Intelligence: A Modern Approach, 4th》, 《Dive into Deep Learning》,《AI系统原理与架构》
+- 📖 I'm recently reading book：
+  《Artificial Intelligence: A Modern Approach, 4th》, 《Dive into Deep Learning》,《AI系统原理与架构》
 - 📫 My E-Mail：[JeffDing890430@163.com](JeffDing890430@163.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=JeffDing)
