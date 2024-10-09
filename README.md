@@ -4,7 +4,7 @@ Datawhale Member, MindSpore Senior Developer, MindSpore Experience Officer, Open
 
 - 🏙️ Shanghai,China
 - 🏫 SJTU
-- 🏆 I’m currently research and learning MindSpore, Ascend，Openmind, InternLM, AI For Science
+- 🏆 I’m currently research and learning MindSpore, Ascend, Openmind, LLM, AI For Science
 - 📖 I'm recently reading book：  
   * 《Artificial Intelligence: A Modern Approach, 4th》
   * 《Dive into Deep Learning》
