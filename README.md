@@ -1,6 +1,6 @@
 ### Hi I am JeffDing
 
-OpenI Experience Officer, MindSpore Senior Developer
+OpenI Experience Officer, MindSpore Senior Developer, Ascend Excellent Developer
 
 - 🏙️ Shanghai,China
 - 🏫 SJTU
