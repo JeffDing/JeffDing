@@ -1,6 +1,6 @@
 ### Hi I am JeffDing
 
-Datawhale Member, MindSpore Senior Developer, MindSpore Experience Officer, OpenI Experience Officer
+MindSpore Senior Developer, MindSpore Experience Officer, OpenI Experience Officer
 
 - 🏙️ Shanghai,China
 - 🏫 SJTU
