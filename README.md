@@ -4,15 +4,12 @@ OpenI Experience Officer, MindSpore Senior Developer, Ascend Excellent Developer
 
 - 🏙️ Shanghai,China
 - 🏫 SJTU
-- 🏆 I’m currently research and learning MindSpore, Ascend, Openmind, LLM, AI For Science，AIGC
+- 🏆 I’m currently research and learning InternLM, Mindspore, Ascend, MetaX, AI4S
 - 📖 I'm recently reading book：  
   * 《Artificial Intelligence: A Modern Approach, 4th》
   * 《Dive into Deep Learning》
-  * 《动手学机器学习》
-  * 《动手学强化学习》
-  * 《动手学数据结构与算法》
   * 《AI系统原理与架构》
-- 📫 My E-Mail：[JeffDing890430@163.com](JeffDing890430@163.com)
+- 📫 My E-Mail：[JeffDing890430@gmail.com](JeffDing890430@gmail.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=JeffDing)
 
