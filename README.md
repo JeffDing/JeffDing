@@ -1,6 +1,6 @@
 ### Hi I am JeffDing
 
-Datawhale Member, OpenI Experience Officer, MindSpore Senior Developer, Ascend Excellent Developer
+Datawhale Member, MindSpore Senior Developer, Ascend Excellent Developer, Reasearch Ascend, MetaX, InternLM, Mindspore, AI4S
 
 - 🏙️ Shanghai,China
 - 🏫 SJTU
