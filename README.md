@@ -1,6 +1,6 @@
 ### Hi I am JeffDing
 
-Datawhale Member, MindSpore Senior Developer, Ascend Excellent Developer, Reasearch Ascend, MetaX, InternLM, Mindspore, AI4S
+Datawhale Member, MindSpore Senior Developer, Ascend Excellent Developer, Reasearch Ascend, MetaX, InternLM, Huawei Tech, Mindspore, AI4S
 
 - 🏙️ Shanghai,China
 - 🏫 SJTU
