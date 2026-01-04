@@ -1,10 +1,10 @@
 ### Hi I am JeffDing
 
-Datawhale Member, MindSpore Senior Developer, Ascend Excellent Developer, Reasearch Ascend, MetaX, InternLM, Huawei Tech, Mindspore, AI4S
+Datawhale Member, MindSpore Senior Developer, Ascend Excellent Developer, Reasearch Ascend, Mindspore, InternLM, Huawei Tech, AI4S
 
 - 🏙️ Shanghai,China
 - 🏫 SJTU
-- 🏆 I’m currently research and learning InternLM, Mindspore, Ascend, MetaX, AI4S
+- 🏆 I’m currently research and learning Ascend, Mindspore, InternLM, Huawei Tech, AI4S
 - 📖 I'm recently reading book：  
   * 《Artificial Intelligence: A Modern Approach, 4th》
   * 《Dive into Deep Learning》
