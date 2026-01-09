@@ -3,7 +3,7 @@
 Datawhale Member, MindSpore Senior Developer, Ascend Excellent Developer
 
 - 🏙️ Shanghai,China
-- 🏆 I’m currently research and learning Ascend, Mindspore, CANN、Huawei Computing, Huawei Open Source, Huawei Cloud, InternLM, AI Infra
+- 🏆 I’m currently research and learning Ascend, Mindspore, CANN、Huawei Computing, Huawei Open Source, InternLM, AI Infra
 - 📖 I'm recently reading book：  
   * 《Artificial Intelligence: A Modern Approach, 4th》
   * 《Dive into Deep Learning》
