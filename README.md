@@ -1,6 +1,6 @@
 ### Hi I am JeffDing
 
-Datawhale Member, MindSpore Senior Developer, Ascend Excellent Developer
+Huawei Cloud Experts, MindSpore Senior Developer, Ascend Excellent Developer
 
 - 🏙️ Shanghai,China
 - 🏆 I’m currently research and learning Ascend, Mindspore, CANN、Huawei Computing, Huawei Open Source, Huawei Cloud, InternLM, AI Infra
