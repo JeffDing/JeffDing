@@ -1,6 +1,6 @@
 ### Hi I am JeffDing
 
-Huawei Cloud Experts, Huawei Cloud Developer Group Contributors， MindSpore Senior Developer, Ascend Excellent Developer
+Huawei Cloud Developer Group Contributors， MindSpore Senior Developer, Ascend Excellent Developer
 
 - 🏙️ Shanghai,China
 - 🏆 I’m currently research and learning Ascend, Mindspore, CANN、Huawei Computing, Huawei Open Source, Huawei Cloud, AI Infra, AI4S, LLM
