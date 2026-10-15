@@ -3,7 +3,7 @@
 Huawei Cloud Developer Group Contributors， MindSpore Senior Developer, Ascend Excellent Developer
 
 - 🏙️ Shanghai,China
-- 🏆 I’m currently research and learning Ascend, CANN, Model Inference, Quantization, Fine-Tuning, AI Framework, AI Infra
+- 🏆 I’m currently research and learning Ascend, CANN, Model Inference, Quantization, Fine-Tuning, AI Framework, AI Infra, Chinese Computing Chips
 - 📖 I'm recently reading book：  
   * 《Artificial Intelligence: A Modern Approach, 4th》
   * 《Dive into Deep Learning》
