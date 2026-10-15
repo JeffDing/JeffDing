@@ -9,5 +9,7 @@ Huawei Cloud Developer Group Contributors， MindSpore Senior Developer, Ascend 
   * 《Dive into Deep Learning》
   * 《AI系统原理与架构》
 - 📫 My E-Mail：[JeffDing890430@gmail.com](JeffDing890430@gmail.com)
-
+- Open Source Contributions
+  * Ascend For Pytorch API Consistent development
+  
 ![](https://github-readme-stats.vercel.app/api?username=JeffDing)
