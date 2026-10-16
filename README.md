@@ -1,6 +1,6 @@
 ### Hi I am JeffDing
 
-Datawhale Member, Huawei Cloud Developer Group Contributors，MindSpore Senior Developer, Ascend Excellent Developer
+Datawhale Contributors, Huawei Cloud Developer Group Contributors，MindSpore Senior Developer, Ascend Excellent Developer
 
 - 🏙️ Shanghai,China
 - 🏆 I’m currently research and learning Ascend, CANN, Model Inference, Quantization, Fine-Tuning, AI Framework, AI Infra, Chinese Computing Chips
