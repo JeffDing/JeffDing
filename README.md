@@ -11,7 +11,7 @@ Huawei Cloud Developer Group Contributors, Ascend Excellent Developer
 - 📫 My E-Mail：[JeffDing890430@gmail.com](JeffDing890430@gmail.com)
 
 ### Open Source Contributions
-  * Ascend For Pytorch API Consistency Development
+  * Ascend For Pytorch API Consistency Development  
 torch.distributed.elastic.multiprocessing.errors.record  
 torch.distributed.elastic.multiprocessing.Std.from_str  
 torch.distributed.elastic.rendezvous.registry.get_rendezvous_handler  
