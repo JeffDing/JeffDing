@@ -20,10 +20,10 @@ torch.distributed.fsdp.OptimStateDictConfig
 torch.distributed.distributed_c10d._check_valid_timeou  
 torch.distributed.device_mesh._mesh_resources.mesh_stack.clear  
 
-  * Ascend for Pytorch Decoupling
+  * Ascend for Pytorch Decoupling  
 [test/quantization/core/test_backend_config.py](https://github.com/pytorch/pytorch/pull/200236)
 
-  * CANN Operator
+  * CANN Operator  
 [aclblasCrotg_Ascend950PR](https://atomgit.com/cann/ops-blas/pull/400)
   
 ![](https://github-readme-stats.vercel.app/api?username=JeffDing)
