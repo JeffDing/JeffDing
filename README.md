@@ -8,7 +8,7 @@ Huawei Cloud Developer Group Contributors, Ascend Excellent Developer
   * 《Artificial Intelligence: A Modern Approach, 4th》
   * 《Dive into Deep Learning》
   * 《AI系统原理与架构》
-- 📫 My E-Mail：[JeffDing890430@gmail.com](JeffDing890430@gmail.com)
+- 📫 My E-Mail：[yichao_ding@hotmail.com](yichao_ding@hotmail.com)
 
 ### Open Source Contributions
 #### Ascend For Pytorch API Consistency Development  
