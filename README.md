@@ -12,18 +12,19 @@ Huawei Cloud Developer Group Contributors, Ascend Excellent Developer
 
 ### Open Source Contributions
 #### Ascend For Pytorch API Consistency Development  
-torch.distributed.elastic.multiprocessing.errors.record  
-torch.distributed.elastic.multiprocessing.Std.from_str  
-torch.distributed.elastic.rendezvous.registry.get_rendezvous_handler  
-torch.distributed.fsdp.LocalOptimStateDictConfig  
-torch.distributed.fsdp.OptimStateDictConfig  
-torch.distributed.distributed_c10d._check_valid_timeou  
-torch.distributed.device_mesh._mesh_resources.mesh_stack.clear  
+- torch.distributed.elastic.multiprocessing.errors.record  
+- torch.distributed.elastic.multiprocessing.Std.from_str  
+- torch.distributed.elastic.rendezvous.registry.get_rendezvous_handler  
+- torch.distributed.fsdp.LocalOptimStateDictConfig  
+- torch.distributed.fsdp.OptimStateDictConfig  
+- torch.distributed.distributed_c10d._check_valid_timeou  
+= torch.distributed.device_mesh._mesh_resources.mesh_stack.clear  
 
 #### Ascend for Pytorch Decoupling  
 [test/quantization/core/test_backend_config.py](https://github.com/pytorch/pytorch/pull/200236)
 
 #### CANN Operator  
 [aclblasCrotg_Ascend950PR](https://atomgit.com/cann/ops-blas/pull/400)
+[aclblasCgemvBatched_Ascend950PR](https://atomgit.com/cann/ops-blas/pull/820)
   
 ![](https://github-readme-stats.vercel.app/api?username=JeffDing)
